@@ -10,7 +10,6 @@ An interactive *AI Chatbot* application developed using Python and Streamlit. Th
 
 *Key Concepts:*
 - Artificial Intelligence
-- Natural Language Processing
 - Chatbot Development
 - Python
 - Streamlit
